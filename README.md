@@ -1,3 +1,5 @@
+# Important: THIS MOD IS ONLY FOR MELONLOADER (FOR NOW)
+
 # Lobby Info
 
 Adds a small on-screen info display (HUD — heads-up display) at the bottom of your view.
