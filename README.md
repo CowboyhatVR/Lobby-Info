@@ -15,11 +15,10 @@ My first mod, feedback is very welcome 🙂
 
 ## Installation (Players)
 1. Go to the **Releases** page
-2. Download the latest ZIP
-3. Extract it
-4. Put the files into:
+2. Download the latest .DLL
+3. Put the files into:
 
-Gorilla Tag/BepInEx/plugins
+Gorilla Tag/Mods/
 
 Restart the game and you're done.
 
@@ -42,3 +41,5 @@ bin/Release/net472/
 ---
 
 Created by CowboyHatVR
+
+# Important: THIS MOD IS ONLY FOR MELONLOADER (FOR NOW)
