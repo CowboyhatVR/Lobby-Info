@@ -1,5 +1,3 @@
-![Downloads](https://img.shields.io/github/downloads/CowboyHatVR/Lobby-Info/total)
-
 # Important: THIS MOD IS ONLY FOR MELONLOADER (FOR NOW)
 
 # Lobby Info
