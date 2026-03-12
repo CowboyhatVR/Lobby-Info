@@ -1,4 +1,4 @@
-![Downloads](https://img.shields.io/github/downloads/CowboyhatVR/Lobby-Info/total)
+![Downloads](https://img.shields.io/github/downloads/CowboyhatVR/Lobby-Info/total) ![Release](https://img.shields.io/github/v/release/CowboyhatVR/Lobby-Info/)
 
 # Important: THIS MOD IS ONLY FOR MELONLOADER (FOR NOW)
 
