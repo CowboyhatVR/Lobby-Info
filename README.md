@@ -7,34 +7,44 @@ Adds a small on-screen info display (HUD — heads-up display) at the bottom of 
 ## Shows
 - Lobby name
 - Public or Private ( gamemodes (infection, casual etc.))
-- Player count
+- Player count (in lobby)
 
-No gameplay changes — just useful info while you play.
-
-My first mod, feedback is very welcome 🙂  
+No gameplay changes — just useful info while you play.  
 
 ---
 
 ## Installation (Players)
-1. Go to the **Releases** page
+
+## Auto install
+1. Open [MonkeModManager.exe](https://github.com/GorillaTagModdingHub/GorillaMelonManager/releases)
+2. Go to the Lobby Info mod
+3. click install
+4. Open your game and done!!
+
+## Manual Install
+1. Go to the [Releases](https://github.com/CowboyhatVR/Lobby-Info/releases/tag/GorillaTag) page
 2. Download the latest .DLL
 3. Put the files into:
 
 Gorilla Tag/Mods/
 
-Restart the game and you're done.
+Open your game and you're done.
+
+---
+
+## if there are any problems with this mod please contact me [My Discord](https://discord.com/users/369571484332589057)
 
 ---
 
 ## Source Code
 This repository contains the source code.  
-If you only want the mod, download it from **Releases**.
+If you only want the mod, download it from [Releases](https://github.com/CowboyhatVR/Lobby-Info/releases/tag/GorillaTag).
 
 ---
 ## Building
 
-1. Install Visual Studio 2022 (.NET desktop development)
-2. Put your Gorilla Tag path in the csproj references
+1. Install Visual Studio 2022/2026 (.NET desktop development)
+2. Put your Gorilla Tag path in the .csproj references
 3. Build in Release mode
 
 The compiled DLL will appear in:
