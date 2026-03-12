@@ -1,4 +1,8 @@
-![Downloads](https://img.shields.io/github/downloads/CowboyhatVR/Lobby-Info/total) ![Release](https://img.shields.io/github/v/release/CowboyhatVR/Lobby-Info) ![Discord](https://img.shields.io/discord/1256646085984911423) ![Discord](https://img.shields.io/discord/1479312004446687268)
+![Downloads](https://img.shields.io/github/downloads/CowboyhatVR/Lobby-Info/total)
+![Release](https://img.shields.io/github/v/release/CowboyhatVR/Lobby-Info)
+![Stars](https://img.shields.io/github/stars/CowboyhatVR/Lobby-Info)
+![Issues](https://img.shields.io/github/issues/CowboyhatVR/Lobby-Info)
+![Last Commit](https://img.shields.io/github/last-commit/CowboyhatVR/Lobby-Info)
 
 # Important: THIS MOD IS ONLY FOR MELONLOADER (FOR NOW)
 
