@@ -32,7 +32,7 @@ Open your game and you're done.
 
 ---
 
-## if there are any problems with this mod please contact me [My Discord](https://discord.com/users/369571484332589057)
+## If there are any problems with this mod please contact me [My Discord](https://discord.com/users/369571484332589057)
 
 ---
 
